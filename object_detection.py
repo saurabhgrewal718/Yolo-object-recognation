@@ -16,6 +16,7 @@ print(classes)
 #webcam 
 #cap = cv2.VideoCapture(0)
 
+#cap = cv2.VideoCapture('video2.mp4')
 cap = cv2.VideoCapture('video2.mp4')
 #img = cv2.imread('cars.jpg')
 
